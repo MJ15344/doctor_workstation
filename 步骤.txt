@@ -1,0 +1,4 @@
+前端：   npm run serve
+后端：   node server.js（以上命令在当前文件夹下命令行启动）
+数据库：mysql -u root -p（MySQL下载，命令行启动）
+端口代理：nginx
